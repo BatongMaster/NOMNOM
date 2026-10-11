@@ -21,6 +21,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "NoMissileIndicators-v0.2.0-nomm.zip",
+      "version": "0.2.0",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/baanish/NO-Missile-Indicators/releases/download/v0.2.0/NoMissileIndicators-v0.2.0-nomm.zip",
+      "hash": "sha256:85a975b2f888123da42adfe958a92151b54e16802ad7a19cc61f3e6db1106e56"
+    },
+    {
       "fileName": "NoMissileIndicators-v0.1.0-nomm.zip",
       "version": "0.1.0",
       "category": "preRelease",
@@ -30,5 +39,5 @@
       "hash": "sha256:b2a46d825f3c3d16fa2d08759e1a76ca05d999ca8999cf58de444e01db6bc7bb"
     }
   ],
-  "downloadCount": 71
+  "downloadCount": 72
 }

@@ -21,6 +21,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "NOCustomMaps-1.4.0.zip",
+      "version": "1.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/BatongMaster/NOCustomMaps/releases/download/v1.4.0/NOCustomMaps-1.4.0.zip",
+      "hash": "sha256:552e2fd672ea66458c5530a40182c2d17c2df8b560001d4ec15bddd999561868"
+    },
+    {
       "fileName": "NOCustomMaps-1.3.0.zip",
       "version": "1.3.0",
       "category": "release",
@@ -39,5 +48,5 @@
       "hash": "sha256:dcad92ae51da5b46f38e709c81d07a8f448b2f08243a78b3814a28e137238af7"
     }
   ],
-  "downloadCount": 2923
+  "downloadCount": 2979
 }
