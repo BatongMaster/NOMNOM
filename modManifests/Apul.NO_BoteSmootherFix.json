@@ -1,0 +1,44 @@
+{
+  "id": "Apul.NO_BoteSmootherFix",
+  "displayName": "BOTE Network Smoother Fix",
+  "description": "Small fix for an NRE in a BOTE prefix that can cause clients to become unusable midst mission.",
+  "tags": [
+    "mod",
+	"fix",
+	"BOTE"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Appulcake/NO_BoteSmootherFix"
+    }
+  ],
+  "authors": [
+    "Appulcake"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "Appulcake",
+  "githubRepoName": "NO_BoteSmootherFix",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Apul.NO_BoteSmootherFix.zip",
+      "version": "0.34.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_BoteSmootherFix/releases/download/v0.34.2.1/Apul.NO_BoteSmootherFix.zip",
+      "hash": "sha256:33cb4f72b2269e6310026bd2c63ea727fbf279b87138ade57a763590533993e6",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        },
+        {
+          "id": "bote",
+          "version": "1.5.2"
+        }
+      ]
+    }
+  ]
+}
