@@ -4,8 +4,8 @@
   "description": "Small fix for an NRE in a BOTE prefix that can cause clients to become unusable midst mission.",
   "tags": [
     "mod",
-	"fix",
-	"BOTE"
+    "fix",
+    "BOTE"
   ],
   "urls": [
     {
@@ -40,5 +40,6 @@
         }
       ]
     }
-  ]
+  ],
+  "downloadCount": 1
 }
