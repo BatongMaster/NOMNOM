@@ -27,6 +27,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "NuclearReplay-0.5.1-plugins.zip",
+      "version": "0.5.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/nuclear-replay/releases/download/v0.5.1/NuclearReplay-0.5.1-plugins.zip",
+      "hash": "sha256:bbd4c2b90c13b3eea4b566f40052124a4870dc380493831397efa75cb74745ce"
+    },
+    {
       "fileName": "NuclearReplay-0.5.0-plugins.zip",
       "version": "0.5.0",
       "category": "release",
