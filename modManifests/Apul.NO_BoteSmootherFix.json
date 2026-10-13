@@ -23,6 +23,25 @@
   "artifacts": [
     {
       "fileName": "Apul.NO_BoteSmootherFix.zip",
+      "version": "0.34.2.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_BoteSmootherFix/releases/download/v0.34.2.3/Apul.NO_BoteSmootherFix.zip",
+      "hash": "sha256:c688be4a702f2ee5213218fbefbd896030613c29ca920527f7270d904d8f88bb",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        },
+        {
+          "id": "bote",
+          "version": "1.5.2"
+        }
+      ]
+    },
+    {
+      "fileName": "Apul.NO_BoteSmootherFix.zip",
       "version": "0.34.2.2",
       "category": "release",
       "type": "plugin",
@@ -60,5 +79,5 @@
       ]
     }
   ],
-  "downloadCount": 83
+  "downloadCount": 111
 }
