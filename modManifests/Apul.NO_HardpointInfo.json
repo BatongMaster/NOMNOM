@@ -5,7 +5,7 @@
   "tags": [
     "mod",
     "qol",
-	"info"
+    "info"
   ],
   "urls": [
     {
@@ -23,6 +23,21 @@
   "artifacts": [
     {
       "fileName": "Apul.NO_HardpointInfo.zip",
+      "version": "0.34.2.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_HardpointInfo/releases/download/v0.34.2.2/Apul.NO_HardpointInfo.zip",
+      "hash": "sha256:a7b7ac3a0ee02b524f755401a985f5b8f349c44e2d9c28d176a6b645f9bea85c",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "Apul.NO_HardpointInfo.zip",
       "version": "0.34.2.1",
       "category": "release",
       "type": "plugin",
@@ -36,5 +51,6 @@
         }
       ]
     }
-  ]
+  ],
+  "downloadCount": 9
 }
