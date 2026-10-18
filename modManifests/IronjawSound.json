@@ -27,6 +27,21 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "IronjawSound-1.0.1.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Talamander/ironjaw-sound/releases/download/v1.0.1/IronjawSound-1.0.1.zip",
+      "hash": "sha256:626995484ad86bb50f167b11fb8649a4a3072090bc7683fd6907a54ec104a45c",
+      "dependencies": [
+        {
+          "id": "NOMapLoader",
+          "version": "1.0.5"
+        }
+      ]
+    },
+    {
       "fileName": "IronjawSound-1.0.0.zip",
       "version": "1.0.0",
       "category": "release",
@@ -42,5 +57,5 @@
       ]
     }
   ],
-  "downloadCount": 467
+  "downloadCount": 488
 }
