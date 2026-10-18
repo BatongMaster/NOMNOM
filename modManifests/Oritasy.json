@@ -23,6 +23,24 @@
   "isClientOrServer": "Both",
   "artifacts": [
     {
+      "fileName": "OritasySS.dll",
+      "version": "0.1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/v0.1.2/OritasySS.dll",
+      "hash": "sha256:cd2107179e7264da9b210eed3e5885024ebe5e331072a66dbea36232b15eaf34"
+    },
+    {
+      "fileName": "OritasySS_v0.1.2-delta.zip",
+      "version": "0.1.2-delta",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/v0.1.2-delta/OritasySS_v0.1.2-delta.zip",
+      "hash": "sha256:151400c95b82f687d57b89917172e6a666451cfd37a27c5990aa248c2c690d88"
+    },
+    {
       "fileName": "OritasySS_v0.1.1.zip",
       "version": "0.1.1",
       "category": "release",
@@ -113,5 +131,5 @@
       "category": "release"
     }
   ],
-  "downloadCount": 2099
+  "downloadCount": 2102
 }
