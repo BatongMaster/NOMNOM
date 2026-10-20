@@ -32,15 +32,6 @@
       "hash": "sha256:cd2107179e7264da9b210eed3e5885024ebe5e331072a66dbea36232b15eaf34"
     },
     {
-      "fileName": "OritasySS_v0.1.2-delta.zip",
-      "version": "0.1.2-delta",
-      "category": "preRelease",
-      "type": "plugin",
-      "gameVersion": "0.34.2",
-      "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/v0.1.2-delta/OritasySS_v0.1.2-delta.zip",
-      "hash": "sha256:151400c95b82f687d57b89917172e6a666451cfd37a27c5990aa248c2c690d88"
-    },
-    {
       "fileName": "OritasySS_v0.1.1.zip",
       "version": "0.1.1",
       "category": "release",
@@ -50,15 +41,6 @@
       "hash": "sha256:343350bdd8d3585abc5526442378aee929490f553b627635ed4fa710d1882919"
     },
     {
-      "fileName": "OritasySS_v0.1.1-beta.zip",
-      "version": "0.1.1-beta",
-      "category": "preRelease",
-      "type": "plugin",
-      "gameVersion": "0.34.2",
-      "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/v0.1.1-beta/OritasySS_v0.1.1-beta.zip",
-      "hash": "sha256:ad81b11ace65008e891f48e751ef06d7a487ccde72dd419911607c1880e87c90"
-    },
-    {
       "fileName": "OritasySS_v0.1.zip",
       "version": "0.1",
       "category": "release",
@@ -66,33 +48,6 @@
       "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/v0.1/OritasySS_v0.1.zip",
       "hash": "sha256:824fa5b8369be230065912cbd711b47697a5953e3c9aad725dbc2748af34e1cf"
-    },
-    {
-      "fileName": "Oritasy_0.0.9.214E.zip",
-      "version": "0.0.9.214E",
-      "category": "release",
-      "type": "plugin",
-      "gameVersion": "0.34.2",
-      "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/0.0.9.214E/Oritasy_0.0.9.214E.zip",
-      "hash": "sha256:9b5692b871ec0ef61200955d725bf9914fd50e9618f6a0a6983d01f6ac181f62"
-    },
-    {
-      "fileName": "Oritasy_0.0.9.214C.zip",
-      "version": "0.0.9.214C",
-      "category": "release",
-      "type": "plugin",
-      "gameVersion": "0.34.2",
-      "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/0.0.9.214C/Oritasy_0.0.9.214C.zip",
-      "hash": "sha256:b5eeca093ee79c1545bd08bf594f6d23a6549643633b5161ff0415289d2cb50d"
-    },
-    {
-      "fileName": "OritasyInfantry_0.0.9.213C.zip",
-      "version": "0.0.9.213C",
-      "category": "release",
-      "type": "plugin",
-      "gameVersion": "0.34.2",
-      "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/0.0.9.213C/OritasyInfantry_0.0.9.213C.zip",
-      "hash": "sha256:f886b070d64f6091dd9e627983d8e188726cd4d4639565a624c1fdc839a64433"
     },
     {
       "type": "plugin",
@@ -131,5 +86,5 @@
       "category": "release"
     }
   ],
-  "downloadCount": 2209
+  "downloadCount": 2062
 }
