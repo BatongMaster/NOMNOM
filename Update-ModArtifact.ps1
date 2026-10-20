@@ -26,7 +26,15 @@ Function SortByVersion($artifacts_)
     $output = @()
     foreach ($artifact in $artifacts_)
     {
-        $version = [version]$artifact.version
+        $version = $null
+        try {
+          $version = [version]$artifact.version
+        } catch
+        {
+          Write-Host "$error"
+          continue
+        }
+        if ($version -eq $null) {continue}
         $obj = [PSCustomObject]@{
             version = $version
             artifact = $artifact
