@@ -21,6 +21,25 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "NOTT-PLUS_0.7.34.1.zip",
+      "version": "0.7.34.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/yessidor/NO_Tactitools/releases/download/0.7.34.1/NOTT-PLUS_0.7.34.1.zip",
+      "hash": "sha256:f389c06a0b082c9160c65fbce8f8980bb3627ec9666b3c82ceee9863a82ec53c",
+      "dependencies": [
+        {
+          "id": "no-autopilot-mod",
+          "version": "5.6.0"
+        },
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
       "fileName": "NOTT-PLUS_0.7.34.0.zip",
       "version": "0.7.34.0",
       "category": "release",
@@ -59,5 +78,5 @@
       ]
     }
   ],
-  "downloadCount": 419
+  "downloadCount": 426
 }
