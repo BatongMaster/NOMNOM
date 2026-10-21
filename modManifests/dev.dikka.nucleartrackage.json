@@ -3,27 +3,38 @@
   "displayName": "NuclearTrackAge",
   "description": "Client-side Nuclear Option mod that annotates stale enemy target tracks with how old the last known position is.",
   "tags": [
-    "QoL",
     "HUD",
-    "Map"
+    "QoL"
   ],
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/NOMNOM-NuclearTrackAge"
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearTrackAge"
     },
     {
       "name": "source",
-      "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
+  "isClientOrServer": "Client",
   "githubOwner": "dikkadev",
-  "githubRepoName": "NOMNOM-NuclearTrackAge",
+  "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearTrackAge-v",
+  "releaseAssetName": "NuclearTrackAge.zip",
   "artifacts": [
+    {
+      "fileName": "NuclearTrackAge.zip",
+      "version": "0.1.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearTrackAge-v0.1.3/NuclearTrackAge.zip",
+      "hash": "sha256:cb78e2167fc82611a6d3051101fddaa98db2f7b7957395f22842efd8a8422de8"
+    },
     {
       "fileName": "NuclearTrackAge-v0.1.0.zip",
       "version": "0.1.0",

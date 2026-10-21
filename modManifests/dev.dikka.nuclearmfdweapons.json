@@ -1,0 +1,40 @@
+{
+  "id": "dev.dikka.nuclearmfdweapons",
+  "displayName": "NuclearMfdWeapons",
+  "description": "Cockpit weapon, ammunition and countermeasure display with a brief loadout preview and optional stock HUD.",
+  "tags": [
+    "UI",
+    "Weapon",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMfdWeapons"
+    },
+    {
+      "name": "source",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "dikkadev",
+  "githubRepoName": "nuclear-option-client-mods",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearMfdWeapons-v",
+  "releaseAssetName": "NuclearMfdWeapons.zip",
+  "artifacts": [
+    {
+      "fileName": "NuclearMfdWeapons.zip",
+      "version": "0.1.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMfdWeapons-v0.1.4/NuclearMfdWeapons.zip",
+      "hash": "sha256:becff2b07668a1bc1cb93ceb0ab213a691ee11d5dac03aec1c64f084bced44f4"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dev.dikka.nuclearcontrollergestures",
+  "displayName": "NuclearControllerGestures",
+  "description": "Configurable additive controller double-press bindings for native button actions; original controls remain available.",
+  "tags": [
+    "QoL",
+    "Utility"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearControllerGestures"
+    },
+    {
+      "name": "source",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "dikkadev",
+  "githubRepoName": "nuclear-option-client-mods",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearControllerGestures-v",
+  "releaseAssetName": "NuclearControllerGestures.zip",
+  "artifacts": [
+    {
+      "fileName": "NuclearControllerGestures.zip",
+      "version": "0.1.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearControllerGestures-v0.1.1/NuclearControllerGestures.zip",
+      "hash": "sha256:1f572f62540d4cc7da88bf4555930330cc2540c323c64368f1fb53f29fa2a285"
+    }
+  ]
+}

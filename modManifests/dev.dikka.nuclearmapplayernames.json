@@ -3,27 +3,39 @@
   "displayName": "NuclearMapPlayerNames",
   "description": "Client-side Nuclear Option mod that shows multiplayer usernames next to player-controlled aircraft on the dynamic map.",
   "tags": [
-    "QoL",
     "Map",
-    "Multiplayer"
+    "multiplayer",
+    "QoL"
   ],
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/dikkadev/NOMNOM-NuclearMapPlayerNames"
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMapPlayerNames"
     },
     {
       "name": "source",
-      "url": "https://forge.dikka.dev/lab/nuclear_option_mods"
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
     }
   ],
   "authors": [
     "dikkadev"
   ],
+  "isClientOrServer": "Client",
   "githubOwner": "dikkadev",
-  "githubRepoName": "NOMNOM-NuclearMapPlayerNames",
+  "githubRepoName": "nuclear-option-client-mods",
   "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearMapPlayerNames-v",
+  "releaseAssetName": "NuclearMapPlayerNames.zip",
   "artifacts": [
+    {
+      "fileName": "NuclearMapPlayerNames.zip",
+      "version": "0.2.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMapPlayerNames-v0.2.3/NuclearMapPlayerNames.zip",
+      "hash": "sha256:545cb1bef6b94c95d1ec27c19ce084f5ee24a5427542c91662818a36a8fddb8c"
+    },
     {
       "fileName": "NuclearMapPlayerNames-v0.2.0.zip",
       "version": "0.2.0",
