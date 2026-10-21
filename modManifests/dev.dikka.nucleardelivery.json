@@ -1,0 +1,40 @@
+{
+  "id": "dev.dikka.nucleardelivery",
+  "displayName": "NuclearDelivery",
+  "description": "Missile and bomb delivery counters on the target camera and cockpit MFD: flight, reported armor contact and lost deliveries.",
+  "tags": [
+    "HUD",
+    "UI",
+    "Weapon"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearDelivery"
+    },
+    {
+      "name": "source",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "dikkadev",
+  "githubRepoName": "nuclear-option-client-mods",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearDelivery-v",
+  "releaseAssetName": "NuclearDelivery.zip",
+  "artifacts": [
+    {
+      "fileName": "NuclearDelivery.zip",
+      "version": "0.1.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearDelivery-v0.1.3/NuclearDelivery.zip",
+      "hash": "sha256:7735bd4cda0cd26193a39b7e7bef67eb83ab4eaedec36eef452a56f640bdbd16"
+    }
+  ]
+}

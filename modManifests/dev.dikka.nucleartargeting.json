@@ -1,0 +1,39 @@
+{
+  "id": "dev.dikka.nucleartargeting",
+  "displayName": "NuclearTargeting",
+  "description": "Client-side alternative target selection with optional cycling and tap-selection caps.",
+  "tags": [
+    "QoL",
+    "gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearTargeting"
+    },
+    {
+      "name": "source",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+    }
+  ],
+  "authors": [
+    "dikkadev"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "dikkadev",
+  "githubRepoName": "nuclear-option-client-mods",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearTargeting-v",
+  "releaseAssetName": "NuclearTargeting.zip",
+  "artifacts": [
+    {
+      "fileName": "NuclearTargeting.zip",
+      "version": "0.2.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearTargeting-v0.2.1/NuclearTargeting.zip",
+      "hash": "sha256:6d49f506f239d26c735e2127af7b57a3e7e0c8a02d5b6371283beef6d64333fe"
+    }
+  ]
+}
