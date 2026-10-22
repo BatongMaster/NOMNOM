@@ -55,6 +55,7 @@ If you have been granted permission by Shockfront Studios to use in-game assets 
   - Example: having Assets in your Mod project that are Ripped straight from the game, for any purpose. 
 
 #### 4. Other Requirements
+- Any Mod that would give the user an unfair advantage over other players, e.g. Manipulating aircraft spawn, flight model and physics, player funds, inventory, ammunition, fuel, automatically engaging weapons, countermeasures, automatically locking targets, making targets visible that are not in the player's Faction's database, or similar features are only passable if they only work if the HOST also runs the Mod and the HOST has enabled such features of the Mod.
 - In order for NOMNOM to automatically discover new Mod Releases for Registered Mods, they must be available as GitHub Repository Release Package.
   - If you use a different delivery method, you must submit a Pull Request to get New Releases registered. Follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
 - By default, GitHub Repositories for your Mods must contain releases for ONLY ONE mod per Repository. Multiple mods may share a release repository when each mod's manifest configures a distinct `releaseTagPrefix` and an exact `releaseAssetName`. See the [shared release repository example](SCHEMA.md#shared-release-repository-example).
