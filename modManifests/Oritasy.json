@@ -24,6 +24,15 @@
   "artifacts": [
     {
       "fileName": "OritasySS.dll",
+      "version": "0.1.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/v0.1.3/OritasySS.dll",
+      "hash": "sha256:5ed3ddd2310b2d9bd9e11b300d2896fc96e4b756d52d7396106d479a6198f051"
+    },
+    {
+      "fileName": "OritasySS.dll",
       "version": "0.1.2",
       "category": "release",
       "type": "plugin",
@@ -86,5 +95,5 @@
       "category": "release"
     }
   ],
-  "downloadCount": 2160
+  "downloadCount": 2178
 }

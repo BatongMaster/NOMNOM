@@ -28,6 +28,15 @@
   "artifacts": [
     {
       "fileName": "NuclearConnectivity.zip",
+      "version": "0.2.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearConnectivity-v0.2.4/NuclearConnectivity.zip",
+      "hash": "sha256:c13e179d7d9bde9e2fb0fa97d6ca14a6c12d60536a512b199b094c5084238380"
+    },
+    {
+      "fileName": "NuclearConnectivity.zip",
       "version": "0.2.3",
       "category": "release",
       "type": "plugin",

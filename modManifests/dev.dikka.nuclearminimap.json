@@ -29,6 +29,15 @@
   "artifacts": [
     {
       "fileName": "NuclearMinimap.zip",
+      "version": "0.3.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMinimap-v0.3.3/NuclearMinimap.zip",
+      "hash": "sha256:2420bde1a7099ae185603007fc35dfa8f57b0a6f0ba06fd832e6d8e7ba058325"
+    },
+    {
+      "fileName": "NuclearMinimap.zip",
       "version": "0.3.2",
       "category": "release",
       "type": "plugin",

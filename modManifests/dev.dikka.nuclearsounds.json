@@ -28,6 +28,15 @@
   "artifacts": [
     {
       "fileName": "NuclearSounds.zip",
+      "version": "0.1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearSounds-v0.1.2/NuclearSounds.zip",
+      "hash": "sha256:1aa400f883524bd0ec22de426eb3c8af9bfc01f670c16df315bac388a3373782"
+    },
+    {
+      "fileName": "NuclearSounds.zip",
       "version": "0.1.1",
       "category": "release",
       "type": "plugin",
