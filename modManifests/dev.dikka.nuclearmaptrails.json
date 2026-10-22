@@ -1,0 +1,34 @@
+{
+  "id": "dev.dikka.nuclearmaptrails",
+  "displayName": "NuclearMapTrails",
+  "description": "Fading flight trails behind player-controlled aircraft on the dynamic map, with configurable duration, colors and altitude shading. Friendly trails by default; optional enemy trails use only actively observed track data.",
+  "tags": ["Map", "QoL"],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods/tree/main/NuclearMapTrails"
+    },
+    {
+      "name": "source",
+      "url": "https://github.com/dikkadev/nuclear-option-client-mods"
+    }
+  ],
+  "authors": ["dikkadev"],
+  "isClientOrServer": "Client",
+  "githubOwner": "dikkadev",
+  "githubRepoName": "nuclear-option-client-mods",
+  "autoUpdateArtifacts": "True",
+  "releaseTagPrefix": "NuclearMapTrails-v",
+  "releaseAssetName": "NuclearMapTrails.zip",
+  "artifacts": [
+    {
+      "fileName": "NuclearMapTrails.zip",
+      "version": "0.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/dikkadev/nuclear-option-client-mods/releases/download/NuclearMapTrails-v0.1.0/NuclearMapTrails.zip",
+      "hash": "sha256:b94dac5732f717c6c0617afc500ccfc08ab99e5b3d36cfd54bd8b07017e4481b"
+    }
+  ]
+}
