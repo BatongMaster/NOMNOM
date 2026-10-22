@@ -1,0 +1,33 @@
+{
+  "id": "NeutralQoL",
+  "displayName": "NeutralQoL",
+  "description": "Small fixes and useful extras for menus, the HUD, the map and controls. Client side only.",
+  "tags": [
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/DevHrytsan/NeutralQoL"
+    }
+  ],
+  "authors": [
+    "DevHrytsan"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "DevHrytsan",
+  "githubRepoName": "NeutralQoL",
+  "autoUpdateArtifacts": "True",
+  "releaseAssetName": "NeutralQoL.zip",
+  "artifacts": [
+    {
+      "fileName": "NeutralQoL.zip",
+      "version": "0.17.0",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/DevHrytsan/NeutralQoL/releases/download/v0.17.0/NeutralQoL.zip",
+      "hash": "sha256:a31b7b53a21f76c4d98beaa09759a8c3fbf5b59629e49350bc442b9d34d24952"
+    }
+  ]
+}
