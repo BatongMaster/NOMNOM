@@ -44,7 +44,7 @@ Function SortByVersion($artifacts_)
     }
     return ($output | Sort-Object version -Descending | Select-Object -ExpandProperty artifact)
 }
-
+Write-Host $("Updating "+ $modPath)
 $mod = $null
 try {
     $mod = get-content $modPath | ConvertFrom-Json
