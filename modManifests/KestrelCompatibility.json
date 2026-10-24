@@ -32,10 +32,10 @@
       "dependencies": [
         {
           "id": "blueprinter.kestrel",
-          "version": "2.2.0"
+          "version": "2.3.0"
         }
       ]
     }
   ],
-  "downloadCount": 1535
+  "downloadCount": 1545
 }
