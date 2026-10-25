@@ -23,6 +23,21 @@
   "artifacts": [
     {
       "fileName": "Apul.NO_HardpointInfo.zip",
+      "version": "0.34.2.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Appulcake/NO_HardpointInfo/releases/download/v0.34.2.3/Apul.NO_HardpointInfo.zip",
+      "hash": "sha256:0f2d890957084ac5363f12117e59d9b4203b8c779cb64c7c547c6aaf2da316e8",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
+      "fileName": "Apul.NO_HardpointInfo.zip",
       "version": "0.34.2.2",
       "category": "release",
       "type": "plugin",
@@ -52,5 +67,5 @@
       ]
     }
   ],
-  "downloadCount": 134
+  "downloadCount": 140
 }
