@@ -1,6 +1,6 @@
 # NOMNOM Schema
 
-The manifest items consist of two main models:
+The manifest items are JSON files that consist of two main models:
 - Mod
 - Artifact
 
@@ -11,6 +11,54 @@ For Example:
     - Xyz.ExampleMod-1.11.0
     - Xyz.ExampleMod-1.10.1
     - Xyz.ExampleMod-1.9.9
+ 
+Example in Json:
+
+```
+{
+  "id": "Xyz.ExampleMod",
+  "displayName": "Example Mod",
+  "description": "Example Mod",
+  "tags": [
+    "example"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/ExampleModder/ExampleMod"
+    }
+  ],
+  "authors": [
+    "ExampleModder"
+  ],
+  "githubOwner": "ExampleModder",
+  "githubRepoName": "ExampleMod",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "ExampleMod.dll",
+      "version": "1.0.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/ExampleModder/ExampleMod/releases/1.0.0.0/ExampleMod.dll",
+      "hash": "sha256:8beea1b9dfea10b55fcffa38c66ca4305157beaeb09b314d87fbfb8f8b99aae9",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ],
+      "incompatibilities": [
+        {
+          "id": "Xyz.ExampleMod2",
+          "version": "1.2.3.4"
+        }
+      ]
+    }
+  ]
+}
+```
 
 This structure allows forming the following relationships:
 - Dependency Chains
