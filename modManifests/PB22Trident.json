@@ -1,7 +1,7 @@
 {
   "id": "PB22Trident",
   "displayName": "PB-22 Trident",
-  "description": "A modern long-range naval strike bomber inspired by the Tu-22M3 Backfire. Swing wings, two afterburning engines, four crew with ejection seats, a built-in jammer, forward and rear weapon bays plus four pylons, live cockpit gauges and six liveries.",
+  "description": "A modern long-range naval strike bomber inspired by the Tu-22M3 Backfire. Swing wings, two afterburning engines, four crew with ejection seats, forward and rear weapon bays plus four pylons, live cockpit gauges and six liveries.",
   "tags": ["mod", "Aircraft", "blueprinter"],
   "urls": [
     { "name": "info", "url": "https://github.com/NicksSoftwareFun/nuclear-option-pb-22-trident-aircraft-mod" }
