@@ -14,6 +14,7 @@ For Example:
  
 Example in Json:
 
+For The meaning of all data points, please read the schema explanation below this example.
 ```
 {
   "id": "Xyz.ExampleMod",
